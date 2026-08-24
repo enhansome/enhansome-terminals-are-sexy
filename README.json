@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T23:21:01Z",
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55087
+                "stars": 55097
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-24T06:41:53Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189342
+                "stars": 189346
               }
             },
             {
@@ -635,7 +635,7 @@
                 "archived": false,
                 "id": 24296070,
                 "language": "Shell",
-                "last_commit": "2026-08-23T13:31:26Z",
+                "last_commit": "2026-08-24T09:43:18Z",
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
                 "stars": 1169
@@ -720,7 +720,7 @@
                 "last_commit": "2026-05-19T18:17:02Z",
                 "owner": "oh-my-fish",
                 "repo": "oh-my-fish",
-                "stars": 11375
+                "stars": 11376
               }
             },
             {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-24T04:03:30Z",
             "owner": "Eugeny",
             "repo": "tabby",
-            "stars": 74094
+            "stars": 74101
           }
         },
         {
@@ -776,7 +776,7 @@
             "last_commit": "2026-08-17T19:36:06Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65480
+            "stars": 65483
           }
         },
         {
@@ -821,7 +821,7 @@
             "last_commit": "2026-08-23T07:10:20Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17960
+            "stars": 17961
           }
         },
         {
@@ -836,7 +836,7 @@
             "last_commit": "2026-03-22T20:20:13Z",
             "owner": "mobile-shell",
             "repo": "mosh",
-            "stars": 14393
+            "stars": 14395
           }
         },
         {
@@ -986,6 +986,72 @@
           "description": null,
           "node_type": "group",
           "title": "Universal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mas",
+              "description": "Mac App Store command line interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40092232,
+                "language": "Swift",
+                "last_commit": "2026-08-24T12:45:52Z",
+                "owner": "mas-cli",
+                "repo": "mas",
+                "stars": 12313
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "macOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chromebrew",
+              "description": "Package manager for Chrome OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11909954,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T01:27:25Z",
+                "owner": "chromebrew",
+                "repo": "chromebrew",
+                "stars": 2504
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ChromeOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oneget",
+              "description": "PackageManagement (aka OneGet) is a package manager for Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18418026,
+                "language": "C#",
+                "last_commit": "2024-09-09T18:13:35Z",
+                "owner": "OneGet",
+                "repo": "oneget",
+                "stars": 2380
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Windows"
         }
       ],
       "title": "Package Managers"
@@ -1056,7 +1122,7 @@
             "last_commit": "2026-08-24T01:02:41Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82630
+            "stars": 82632
           }
         },
         {
@@ -1083,7 +1149,7 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-24T09:29:39Z",
+            "last_commit": "2026-08-24T13:43:39Z",
             "owner": "tldr-pages",
             "repo": "tldr",
             "stars": 63468
@@ -1101,7 +1167,7 @@
             "last_commit": "2026-08-24T02:58:01Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38798
+            "stars": 38806
           }
         },
         {
@@ -1116,7 +1182,7 @@
             "last_commit": "2026-08-23T15:59:11Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33413
+            "stars": 33417
           }
         },
         {
@@ -1131,7 +1197,7 @@
             "last_commit": "2026-08-02T16:08:37Z",
             "owner": "chubin",
             "repo": "wttr.in",
-            "stars": 30395
+            "stars": 30398
           }
         },
         {
@@ -1176,7 +1242,7 @@
             "last_commit": "2024-07-19T20:19:01Z",
             "owner": "dylanaraps",
             "repo": "neofetch",
-            "stars": 23705
+            "stars": 23704
           }
         },
         {
@@ -1188,7 +1254,7 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-24T08:51:28Z",
+            "last_commit": "2026-08-24T13:47:32Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22171
@@ -1206,7 +1272,7 @@
             "last_commit": "2026-08-17T16:17:54Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21826
+            "stars": 21827
           }
         },
         {
@@ -1236,7 +1302,7 @@
             "last_commit": "2026-08-14T09:03:57Z",
             "owner": "asciinema",
             "repo": "asciinema",
-            "stars": 17717
+            "stars": 17719
           }
         },
         {
@@ -1311,7 +1377,7 @@
             "last_commit": "2026-07-27T23:00:48Z",
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13316
+            "stars": 13317
           }
         },
         {
@@ -1431,7 +1497,7 @@
             "last_commit": "2026-07-27T11:41:05Z",
             "owner": "athityakumar",
             "repo": "colorls",
-            "stars": 5134
+            "stars": 5135
           }
         },
         {
@@ -1887,7 +1953,7 @@
             "last_commit": "2024-04-23T08:35:32Z",
             "owner": "jpbruinsslot",
             "repo": "slack-term",
-            "stars": 6608
+            "stars": 6610
           }
         },
         {
@@ -1942,7 +2008,7 @@
                     "last_commit": "2024-03-26T23:45:17Z",
                     "owner": "kahun",
                     "repo": "awesome-sysadmin",
-                    "stars": 24352
+                    "stars": 24351
                   }
                 },
                 {
@@ -1972,7 +2038,7 @@
                     "last_commit": "2026-05-13T04:32:20Z",
                     "owner": "emacs-tw",
                     "repo": "awesome-emacs",
-                    "stars": 9366
+                    "stars": 9367
                   }
                 },
                 {
@@ -2009,7 +2075,7 @@
                     "last_commit": "2024-06-25T18:13:44Z",
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162164
+                    "stars": 162157
                   }
                 },
                 {
@@ -2024,7 +2090,7 @@
                     "last_commit": "2024-08-11T14:14:10Z",
                     "owner": "Idnan",
                     "repo": "bash-guide",
-                    "stars": 12372
+                    "stars": 12371
                   }
                 }
               ],
@@ -2042,7 +2108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:36:52.799Z",
+    "last_updated": "2026-08-24T13:51:09.054Z",
     "original_repository": "k4m4/terminals-are-sexy",
     "original_repository_id": 80627278,
     "original_repository_sha": "c53af64e02a56cd99a119242b07be7fdf5811c48",
