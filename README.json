@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 49609581,
                 "language": "C#",
-                "last_commit": "2026-08-25T20:51:08Z",
+                "last_commit": "2026-08-27T06:10:23Z",
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55129
+                "stars": 55142
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-25T14:40:25Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189381
+                "stars": 189409
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2025-06-24T16:15:03Z",
                 "owner": "zsh-users",
                 "repo": "zsh-autosuggestions",
-                "stars": 36014
+                "stars": 36013
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-22T02:19:05Z",
                 "owner": "zsh-users",
                 "repo": "zsh-syntax-highlighting",
-                "stars": 22952
+                "stars": 22955
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-07-16T13:03:26Z",
                 "owner": "sindresorhus",
                 "repo": "pure",
-                "stars": 14400
+                "stars": 14401
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2020-04-23T18:43:47Z",
                 "owner": "Powerlevel9k",
                 "repo": "powerlevel9k",
-                "stars": 13410
+                "stars": 13411
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-15T13:33:59Z",
                 "owner": "zsh-users",
                 "repo": "antigen",
-                "stars": 8353
+                "stars": 8352
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-04T09:40:33Z",
                 "owner": "zplug",
                 "repo": "zplug",
-                "stars": 6051
+                "stars": 6050
               }
             },
             {
@@ -261,7 +261,7 @@
                 "archived": false,
                 "id": 32639671,
                 "language": "Shell",
-                "last_commit": "2026-07-22T13:33:05Z",
+                "last_commit": "2026-08-26T18:38:54Z",
                 "owner": "zpm-zsh",
                 "repo": "zpm",
                 "stars": 403
@@ -481,7 +481,7 @@
                 "last_commit": "2026-08-09T06:56:08Z",
                 "owner": "Bash-it",
                 "repo": "bash-it",
-                "stars": 15147
+                "stars": 15149
               }
             },
             {
@@ -508,10 +508,10 @@
                 "archived": false,
                 "id": 14877272,
                 "language": "C",
-                "last_commit": "2026-05-29T18:08:10Z",
-                "owner": "dvorka-oss",
+                "last_commit": "2026-08-26T15:28:14Z",
+                "owner": "dvorka",
                 "repo": "hstr",
-                "stars": 4453
+                "stars": 4454
               }
             },
             {
@@ -593,7 +593,7 @@
                 "last_commit": "2026-04-10T16:26:04Z",
                 "owner": "magicmonty",
                 "repo": "bash-git-prompt",
-                "stars": 6935
+                "stars": 6934
               }
             },
             {
@@ -635,10 +635,10 @@
                 "archived": false,
                 "id": 24296070,
                 "language": "Shell",
-                "last_commit": "2026-08-24T17:22:09Z",
+                "last_commit": "2026-08-26T21:59:08Z",
                 "owner": "unixorn",
                 "repo": "git-extra-commands",
-                "stars": 1169
+                "stars": 1168
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2025-11-21T20:21:28Z",
                 "owner": "twolfson",
                 "repo": "sexy-bash-prompt",
-                "stars": 1156
+                "stars": 1157
               }
             },
             {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-24T04:03:30Z",
             "owner": "Eugeny",
             "repo": "tabby",
-            "stars": 74142
+            "stars": 74168
           }
         },
         {
@@ -776,7 +776,7 @@
             "last_commit": "2026-08-26T04:17:18Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65511
+            "stars": 65527
           }
         },
         {
@@ -791,7 +791,7 @@
             "last_commit": "2026-08-21T20:44:39Z",
             "owner": "vercel",
             "repo": "hyper",
-            "stars": 44705
+            "stars": 44706
           }
         },
         {
@@ -806,7 +806,7 @@
             "last_commit": "2026-08-24T15:53:50Z",
             "owner": "cmderdev",
             "repo": "cmder",
-            "stars": 26992
+            "stars": 26996
           }
         },
         {
@@ -818,10 +818,10 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-26T05:18:01Z",
+            "last_commit": "2026-08-27T00:18:47Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17966
+            "stars": 17974
           }
         },
         {
@@ -836,7 +836,7 @@
             "last_commit": "2026-03-22T20:20:13Z",
             "owner": "mobile-shell",
             "repo": "mosh",
-            "stars": 14400
+            "stars": 14402
           }
         },
         {
@@ -851,7 +851,7 @@
             "last_commit": "2025-12-22T12:00:12Z",
             "owner": "felixse",
             "repo": "FluentTerminal",
-            "stars": 9607
+            "stars": 9606
           }
         },
         {
@@ -866,7 +866,7 @@
             "last_commit": "2025-04-07T22:10:41Z",
             "owner": "ConEmu",
             "repo": "ConEmu",
-            "stars": 9250
+            "stars": 9253
           }
         },
         {
@@ -911,7 +911,7 @@
             "last_commit": "2026-08-09T01:51:36Z",
             "owner": "gnome-terminator",
             "repo": "terminator",
-            "stars": 2644
+            "stars": 2645
           }
         },
         {
@@ -926,7 +926,7 @@
             "last_commit": "2026-01-10T14:55:14Z",
             "owner": "lanoxx",
             "repo": "tilda",
-            "stars": 1342
+            "stars": 1340
           }
         },
         {
@@ -941,7 +941,7 @@
             "last_commit": "2026-08-24T21:15:24Z",
             "owner": "borisfaure",
             "repo": "terminology",
-            "stars": 734
+            "stars": 735
           }
         }
       ],
@@ -964,7 +964,7 @@
                 "last_commit": "2026-08-12T01:47:40Z",
                 "owner": "asdf-vm",
                 "repo": "asdf",
-                "stars": 25547
+                "stars": 25548
               }
             },
             {
@@ -1001,7 +1001,7 @@
                 "last_commit": "2026-08-25T18:16:29Z",
                 "owner": "mas-cli",
                 "repo": "mas",
-                "stars": 12315
+                "stars": 12323
               }
             }
           ],
@@ -1020,7 +1020,7 @@
                 "archived": false,
                 "id": 11909954,
                 "language": "Ruby",
-                "last_commit": "2026-08-26T08:12:13Z",
+                "last_commit": "2026-08-27T04:40:05Z",
                 "owner": "chromebrew",
                 "repo": "chromebrew",
                 "stars": 2507
@@ -1068,10 +1068,10 @@
             "archived": false,
             "id": 53632140,
             "language": "Go",
-            "last_commit": "2026-08-26T00:17:30Z",
+            "last_commit": "2026-08-27T01:40:06Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29437
+            "stars": 29445
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2021-11-01T04:47:39Z",
             "owner": "slap-editor",
             "repo": "slap",
-            "stars": 6189
+            "stars": 6188
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-08-20T04:09:37Z",
             "owner": "martanne",
             "repo": "vis",
-            "stars": 4696
+            "stars": 4697
           }
         }
       ],
@@ -1122,7 +1122,7 @@
             "last_commit": "2026-08-26T00:07:09Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82650
+            "stars": 82675
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67600
+            "stars": 67631
           }
         },
         {
@@ -1149,10 +1149,10 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-26T07:10:53Z",
+            "last_commit": "2026-08-27T05:47:14Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63482
+            "stars": 63497
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2026-08-24T18:44:27Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38865
+            "stars": 38922
           }
         },
         {
@@ -1179,10 +1179,10 @@
             "archived": false,
             "id": 2909429,
             "language": "Python",
-            "last_commit": "2026-08-26T07:38:31Z",
+            "last_commit": "2026-08-26T14:06:06Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33433
+            "stars": 33450
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "last_commit": "2026-08-02T16:08:37Z",
             "owner": "chubin",
             "repo": "wttr.in",
-            "stars": 30407
+            "stars": 30420
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2024-06-16T19:37:41Z",
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27109
+            "stars": 27107
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2024-09-24T15:18:09Z",
             "owner": "ogham",
             "repo": "exa",
-            "stars": 24442
+            "stars": 24443
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2024-07-19T20:19:01Z",
             "owner": "dylanaraps",
             "repo": "neofetch",
-            "stars": 23701
+            "stars": 23700
           }
         },
         {
@@ -1254,10 +1254,10 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-26T09:19:06Z",
+            "last_commit": "2026-08-27T11:35:37Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22174
+            "stars": 22176
           }
         },
         {
@@ -1269,10 +1269,10 @@
             "archived": false,
             "id": 66150122,
             "language": "C",
-            "last_commit": "2026-08-25T16:33:34Z",
+            "last_commit": "2026-08-26T22:09:22Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21830
+            "stars": 21835
           }
         },
         {
@@ -1284,10 +1284,10 @@
             "archived": false,
             "id": 118945118,
             "language": "Go",
-            "last_commit": "2026-07-28T11:36:44Z",
+            "last_commit": "2026-08-26T14:49:32Z",
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20590
+            "stars": 20596
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-08-14T09:03:57Z",
             "owner": "asciinema",
             "repo": "asciinema",
-            "stars": 17734
+            "stars": 17738
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-07-28T09:05:10Z",
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17479
+            "stars": 17484
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2024-06-19T08:00:48Z",
             "owner": "rupa",
             "repo": "z",
-            "stars": 17044
+            "stars": 17043
           }
         },
         {
@@ -1347,7 +1347,7 @@
             "last_commit": "2025-02-27T16:03:23Z",
             "owner": "wting",
             "repo": "autojump",
-            "stars": 16961
+            "stars": 16962
           }
         },
         {
@@ -1362,7 +1362,7 @@
             "last_commit": "2026-07-10T15:17:11Z",
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13712
+            "stars": 13713
           }
         },
         {
@@ -1389,10 +1389,10 @@
             "archived": false,
             "id": 68402336,
             "language": "Python",
-            "last_commit": "2026-08-25T23:34:28Z",
+            "last_commit": "2026-08-26T20:26:07Z",
             "owner": "streamlink",
             "repo": "streamlink",
-            "stars": 11713
+            "stars": 11715
           }
         },
         {
@@ -1422,7 +1422,7 @@
             "last_commit": "2026-08-25T00:37:27Z",
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9476
+            "stars": 9477
           }
         },
         {
@@ -1452,7 +1452,7 @@
             "last_commit": "2026-08-16T04:31:40Z",
             "owner": "jarun",
             "repo": "buku",
-            "stars": 7184
+            "stars": 7185
           }
         },
         {
@@ -1467,7 +1467,7 @@
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6565
+            "stars": 6567
           }
         },
         {
@@ -1482,7 +1482,7 @@
             "last_commit": "2021-11-13T08:09:20Z",
             "owner": "jarun",
             "repo": "googler",
-            "stars": 6204
+            "stars": 6203
           }
         },
         {
@@ -1497,7 +1497,7 @@
             "last_commit": "2026-07-27T11:41:05Z",
             "owner": "athityakumar",
             "repo": "colorls",
-            "stars": 5134
+            "stars": 5133
           }
         },
         {
@@ -1542,7 +1542,7 @@
             "last_commit": "2024-04-07T22:46:01Z",
             "owner": "cointop-sh",
             "repo": "cointop",
-            "stars": 4397
+            "stars": 4396
           }
         },
         {
@@ -1557,7 +1557,7 @@
             "last_commit": "2022-02-16T15:15:53Z",
             "owner": "shobrook",
             "repo": "rebound",
-            "stars": 4115
+            "stars": 4114
           }
         },
         {
@@ -1587,7 +1587,7 @@
             "last_commit": "2026-03-02T03:08:18Z",
             "owner": "KittyKatt",
             "repo": "screenFetch",
-            "stars": 4073
+            "stars": 4075
           }
         },
         {
@@ -1617,7 +1617,7 @@
             "last_commit": "2025-10-25T01:39:59Z",
             "owner": "insanum",
             "repo": "gcalcli",
-            "stars": 3756
+            "stars": 3757
           }
         },
         {
@@ -1632,7 +1632,7 @@
             "last_commit": "2026-08-16T04:53:53Z",
             "owner": "jarun",
             "repo": "ddgr",
-            "stars": 3534
+            "stars": 3535
           }
         },
         {
@@ -1752,7 +1752,7 @@
             "last_commit": "2024-09-03T20:56:21Z",
             "owner": "dduan",
             "repo": "tre",
-            "stars": 1218
+            "stars": 1219
           }
         },
         {
@@ -1953,7 +1953,7 @@
             "last_commit": "2024-04-23T08:35:32Z",
             "owner": "jpbruinsslot",
             "repo": "slack-term",
-            "stars": 6613
+            "stars": 6614
           }
         },
         {
@@ -2008,7 +2008,7 @@
                     "last_commit": "2024-03-26T23:45:17Z",
                     "owner": "kahun",
                     "repo": "awesome-sysadmin",
-                    "stars": 24352
+                    "stars": 24351
                   }
                 },
                 {
@@ -2023,7 +2023,7 @@
                     "last_commit": "2026-08-21T15:03:15Z",
                     "owner": "unixorn",
                     "repo": "awesome-zsh-plugins",
-                    "stars": 17971
+                    "stars": 17974
                   }
                 },
                 {
@@ -2053,7 +2053,7 @@
                     "last_commit": "2024-07-29T13:08:35Z",
                     "owner": "jondot",
                     "repo": "awesome-devenv",
-                    "stars": 3334
+                    "stars": 3335
                   }
                 }
               ],
@@ -2075,7 +2075,7 @@
                     "last_commit": "2024-06-25T18:13:44Z",
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162167
+                    "stars": 162175
                   }
                 },
                 {
@@ -2108,9 +2108,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:31:33.701Z",
-    "original_repository": "k4m4/terminals-are-sexy",
-    "original_repository_id": 80627278,
+    "last_updated": "2026-08-27T12:07:05.123Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 80627278,
+      "language": "Shell",
+      "last_commit": "2024-07-26T15:27:31Z",
+      "owner": "k4m4",
+      "repo": "terminals-are-sexy",
+      "stars": 13091
+    },
     "original_repository_sha": "c53af64e02a56cd99a119242b07be7fdf5811c48",
     "enhanced_repository": "enhansome/enhansome-terminals-are-sexy",
     "enhanced_repository_description": null,
